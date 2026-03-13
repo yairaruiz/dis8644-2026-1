@@ -26,9 +26,14 @@ A Clockwork Orange
 Referencias:
 
 Encyclopaedia Britannica. (s.f.). Wendy Carlos.
+
 https://www.britannica.com/biography/Wendy-Carlos
 Who2. (s.f.).
+
 Wendy Carlos.
+
 https://www.who2.com/bio/wendy-carlos/
+
 The Guardian. (2020, November 11). She made music jump into 3D: Wendy Carlos, the reclusive synth genius.
+
 https://www.theguardian.com/music/2020/nov/11/she-made-music-jump-into-3d-wendy-carlos-the-reclusive-synth-genius
