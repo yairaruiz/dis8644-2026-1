@@ -10,6 +10,6 @@
 - Leds
 - Resistencias 1K
 
-### Reglas ascenciales de otgaización
+### Reglas ascenciales de organización
 - Positivo arriba rojo
 - Negativo abajo negro 
