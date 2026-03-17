@@ -32,3 +32,13 @@ materiales físicos:
 + silicio
 + cobre
 
+## TINKERCAD 
+programa para generar circuitos super entreteee
+
++ corriente(i) mientras más corriente más electrones pasando
++ resistencia(r): que tan fácil o tan difícil es para mi conducto dejar pasar lo que quiera, la resistencia no tiene polaridad 
++ voltaje(v)
+
+# encargo 02 
+
+Aaron swartz 
