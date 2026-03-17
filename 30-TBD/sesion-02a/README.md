@@ -95,6 +95,8 @@ osea:
 
 es![cualquier texto aca](./imagenes/apuntesprueba.PNG)
 
+## Circuito
+
 Un circuito es un lazo cerrado
 
 Un circuito electrico es un lazo cerrado con elementos resistivos 
@@ -106,3 +108,14 @@ si se saca la resistencia de 1 de 2 leds se apaga porque se rompe el circuito
 ese circuito tiene 9 volts, solo se nesecita 9 volts en el positivo y 0 volts en el negativo pero no importa como esté fisicamente mientras se cumpla con 
 
 osea que si quito R1 del D1 sique prendido el R2 del D2 porque solo se quitó el cicuito del D1
+
+(IMAGENES DE CIRCUITOS)
+
+A 0 volts se le llama Ground o Tierra o suelo
+
+En los esquemas Ground es el mismo aunque esté escrito en distintos puntos
+
+VCC **voltaje positivo** manera conceptual de decir voltaje de alimentacion (Corriente continua)
+
+
+GND Ground 0 volts Tierra **voltaje negativo**
