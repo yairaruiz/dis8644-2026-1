@@ -24,4 +24,8 @@
 | Amarillo: 4 | Violeta: 7 | Naranja: 3| Dorado| 47 000} 3 ceros  |
 
 ![esquemático](./imagenes/esquematico.png)
+![circuito1](./imagenes/circuitoParalelo.png)
 
+### En clase
+
+![circuito2](./imagenes/circuito.HEIC)
