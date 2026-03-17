@@ -36,12 +36,15 @@ La clase de circuitos fue muy dinámica. El profesor Matías utilizó una analog
 
 La fórmula en el ejemplo de la analogía hidráulica, era: 
 
-Caudal= Altura/Oposición
+**Caudal= Altura/Oposición**
 
 Y la formula en la física, es: 
 
-Corriente= Voltaje/Resistencia   (I=V/R)
+**Corriente= Voltaje/Resistencia   (I=V/R)**
 
-Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más cuyos nombres no tengo presentes.
+Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más cuyos nombres no tengo presentes, y manos a la obra:
 
-Y manos a la obra
+<a href="https://drive.google.com/file/d/131SRgDg_3Xw0F0CrGDG8Pfg3GBESx0ky/view?usp=drive_link">
+  <img src="https://github.com/user-attachments/assets/cad0beae-2339-49e6-b38f-d364767254f5" width="500">
+</a>
+
