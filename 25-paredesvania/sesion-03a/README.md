@@ -28,4 +28,4 @@ No importa si coloco la **resistencia** en el **positivo o el negativo**. La res
 
 * _**Pantalón igual a infinito:** _La equivalencia de un pantalón (o cualquier figura con dos agujeros) con un "ocho" o el símbolo de infinito también se basa en la flexibilidad topológica.
 
-![topología](./imagenes/topologia.webp)
+![dona](./imagenes/topologia.jpg)
