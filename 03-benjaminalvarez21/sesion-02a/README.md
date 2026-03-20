@@ -138,3 +138,17 @@ https://www.youtube.com/watch?v=x2EBRwdrfs0
 
 ### Sound of Silver - LCD Soundsystem
 
+A comparación con el album anterior esto es totalmente distinto. Fue lanzado en 2007, es un album que fuciona el rock con el dance, algunos catalogan el album como un album indie, dance-punk, dance-rock o electronica. Tiene riffs de piano que parecen trenes, sintetizadores efervescentes y melodias que son bastante pegadizas. James Murphy abandona su estrategia de improvisacion en este album ya que sus letras se notan escritas y pensadas. Durante el proceso de grabacion cubrio todo el estudio con papel aluminip y tela plateada, Murhpy dice que fue una experiencia horrible grabar sus voces. Este album logra un sonido profundo, espacioso y lleno de vida, combinando ritmos pop, electronicos y krautrock. Analisando sus presentaciones en vivo no veo mucha diferencia entre unas y otras, talvez el setlist pero en vivo suenan increible y todos los intrumentos y maquinas que estan en el escenario hace que sea un show increible y memorable. LCD Soundsystem tiene una tecnica de produccion increible e iconica, todas las maquinas y sintetizadores a la vista y funcionando siendo esto una de las mas memorables cualidades de este grupo y convirtiendo este album en uno de los mejores de la banda.
+
+### Referencias
+
+https://pitchfork.com/reviews/albums/10017-sound-of-silver/
+
+https://en.wikipedia.org/wiki/Sound_of_Silver
+
+https://www.youtube.com/watch?v=-PwfunWSdmY&t=3378s
+
+https://www.youtube.com/watch?v=zCD8gKvFLZQ
+
+https://en.wikipedia.org/wiki/LCD_Soundsystem
+
