@@ -181,4 +181,7 @@ Ejercicio 3
 
 Inetente muchas veces hacerlo, pero no me resulto. Se me hizo difícil! 
 
+Entre mis intentos lo que hice con R1 y R2 fue colocarlos en la misma coordenada, osea uno superpuesto sobre el otro. Después coloque uno tras el otro (ninguno de los dos funcionaba) 
+
+La parte donde esta R4, R5, R3. R6 no comprendi como interpretarla.
 
