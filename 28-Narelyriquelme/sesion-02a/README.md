@@ -28,6 +28,9 @@ Observaciones: En este circuito solo se interrumpe la energia al sacar R3 apagan
 ### Disco Computerwelt
 Lanzado en una época donde las computadoras eran gigantescas y desconocidas para el público general, este disco funcionó como una profecía sonora. Kraftwerk no solo hizo música; diseñó una visión del futuro.
 
+
+![Portada album](./imagenes/mundo_de_la_computadora.png) 
+
 #### Avances 
 ​Los avances de la era de Computerwelt (1981) marcaron el nacimiento de la música electrónica moderna al integrar microprocesadores y tecnología de consumo masivo en la composición artística. Kraftwerk utilizó herramientas revolucionarias como el sintetizador digital Seiko DS-202 para obtener sonidos fríos y cristalinos, el Vocoder Sennheiser VSM201 para robotizar la voz humana y el secuenciador personalizado Synthanorma, que permitía una precisión matemática de 32 pasos imposible de replicar manualmente. La gran novedad fue la miniaturización de su equipo; mientras el resto del mundo usaba computadoras del tamaño de una habitación, ellos diseñaron racks portátiles y utilizaron dispositivos de bolsillo como la calculadora Texas Instruments y el juguete Bee Gees Rhythm Machine, profetizando una era donde la tecnología y la creación musical cabrían en la palma de la mano.
 
@@ -36,6 +39,11 @@ Kraftwerk se encerró casi tres años en su laboratorio secreto llamado Kling Kl
 
 #### Comparacion presentacin actual y antigua
 ​Al comparar las presentaciones en vivo, se hace evidente el tránsito de la experimentación analógica a la perfección virtual definitiva. En la gira original de 1981, la banda operaba consolas físicas pesadas, rodeados de cables y sintetizadores que requerían ajustes manuales constantes, proyectando imágenes de 16mm en un ambiente que recordaba a una oficina de científicos de los años 50. En contraste, las presentaciones actuales como la de Berlín 2025 muestran a una banda totalmente integrada en la matriz digital; los instrumentos físicos han sido reemplazados por controladores de alta tecnología ocultos en atriles minimalistas, y las proyecciones son ahora experiencias 3D inmersivas sincronizadas con audio envolvente. Mientras que en los 80 Kraftwerk operaba las máquinas para predecir el futuro, hoy se presentan como avatares dentro de ese futuro, utilizando trajes de neón LED que los funden con la cuadrícula de datos que ellos mismos ayudaron a diseñar.
+
+#### Imagenes de presentacion antigua y actual
+![presentacion antigua](./imagenes/1981-computer-world-tour.jpg)
+
+![presentacion actual](./imagenes/presentación_2025.jpg) 
 
 
 
