@@ -75,7 +75,6 @@ Mucho de las cosas que hacemos es por sentir algo (aaron)
 ![cajas](imagenes/cajas.jpeg)
 ![materiales](imagenes/materiales.jpeg)
 ![ejercicio](imagenes/ejercicio.jpeg)
-![ejercicio 1](imagenes/ejercicio_1.jpeg)
 ![dibujo](imagenes/circuito_dibujo.jpeg).
 
 ### post-clase
@@ -128,7 +127,7 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | R4            |    G5,D5     |  
 | R5            |    G12,G14   | 
 
-![ejercicio 1](imagenes/ejercicio_1.jpg)
+![ejercicio 1](imagenes/ejercicio_1c.jpg)
 Ejercicio 2
 
 1. Primero realice el circuito central y funciono solo.
