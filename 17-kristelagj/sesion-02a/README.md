@@ -53,7 +53,7 @@ Las resistencias tienen un codigo de color ya que a traves de este metodo podemo
 
 Calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
-Electrodos: aplicación para teléfono
+**Electrodos:** aplicación para teléfono
 
 **Esquemático:** Representan de manera gráfica y abstracta el circuito
 
