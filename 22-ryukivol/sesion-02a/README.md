@@ -14,7 +14,11 @@
 
 ## Reglas ascenciales de organización
 - Positivo arriba rojo
-- Negativo abajo negro 
+- Negativo abajo negro
+- GND  Ground 
+- VCC  voltaje de alimentación, corriente continua
+- R  resistencia
+- D  LED
 
 ## Circuito paralelo 
 - circuito: lazo cerrado 
@@ -40,6 +44,9 @@
 | R4                    |   1   |    1  |    1  |   0   |
 | R2                    |   1   |   0   |   0   |   1   |
 | R5                    |    1  |   0   |  0    |   1   |
+
+![imagen1](/imagen/ejercicio-1.1)
+
 
 #### Ejercicio 2
 
