@@ -45,7 +45,7 @@ Kraftwerk se encerró casi tres años en su laboratorio secreto llamado Kling Kl
 ![presentacion actual](./imagenes/presentacion_2025.jpg)  
 
 #### Analisis disco
-Al escuchar el disco en lo personal lo senti muy frio con una sensacion de nostalgia que tiene unos sonidos que suenan algo melancolicos pero por momentos tenia algun sonido mas movido que lo disfrutaba mas 
+Escuchar este disco se siente muy frío, casi como si estuvieras dentro de un videojuego viejo y solitario. Los sonidos se repiten mucho y son algo "apagados", lo que te da una sensación de nostalgia o tristeza, como si extrañaras algo que no conoces. Pero no todo es aburrido; de repente aparecen partes más movidas que se disfrutan bastante y te dan ganas de seguir escuchando. Es un viaje extraño entre sentirte solo con las máquinas y querer moverte con el ritmo.
 
 ---
 
@@ -69,7 +69,7 @@ Al escuchar el disco en lo personal lo senti muy frio con una sensacion de nosta
 ![presentacion actual](./imagenes/soundsystem_actual.jpeg)  
 
 #### Analisis disco
-Al escuchar el disco en lo personal lo senti muy frio con una sensacion de nostalgia que tiene unos sonidos que suenan algo melancolicos pero por momentos tenia algun sonido mas movido que lo disfrutaba mas 
+Este álbum se siente caliente y lleno de vida, como estar en una fiesta con tus mejores amigos. En lugar de sonidos fríos, aquí escuchas instrumentos que vibran y te hacen sentir mucha emoción, como si la banda estuviera tocando solo para ti. Te da una alegría explosiva que te quita cualquier tristeza, porque suena real y con mucha fuerza. Es la música perfecta para cuando quieres dejar de pensar y simplemente disfrutar, el momento me gusto.
 
 ### Fuentes y Referencias
 
